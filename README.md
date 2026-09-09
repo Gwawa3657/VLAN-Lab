@@ -27,4 +27,27 @@ Last time i used Cisco Packet Tracer was when I was studying for the Network+ I 
 <p align="left">
 <img width="681" height="658" alt="Screenshot 2026-09-08 214527" src="https://github.com/user-attachments/assets/2c824ecc-9de8-4d2f-820f-478eceee355b" />
 </p>
-
+<br> PC0 and Laptop1 are connected to interface 0/2 and 0/3
+<br> the command "interface fastethernet" changes which interface is being configured.
+<br> "switchport mode access" > "switchport access vlan 2 will put the computer connected to that interface into the vlan 2 I created
+<p align="left">
+<img width="312" height="123" alt="Screenshot 2026-09-08 215558" src="https://github.com/user-attachments/assets/ce6ddad8-5826-49be-aca8-56ccd17bb22e" />
+</p>
+<br> To make sure these computers are segmented properly I access the command prompt in PC0 and try to ping PC2 which is not in our VLAN.
+<br> The ping returns a Request timed out which means it was set up properly.
+<p align="left">
+<img width="1146" height="181" alt="Screenshot 2026-09-08 220636" src="https://github.com/user-attachments/assets/402df7e1-7dc9-48df-9713-de7863e98277" />
+</p>
+<br> PC2 and PC3 are are connected to interface 0/4 and 0/5
+<br> PC4 and Laptop0 are connected to interface 0/6 and 0/7
+<br> Once again go into the network switch config and switch PC2 and PC3 to vlan 3
+<br> Switch PC4 and Laptop0 to vlan 4
+<p align="left">
+<img width="685" height="692" alt="Screenshot 2026-09-08 221520" src="https://github.com/user-attachments/assets/b625c7fc-e28c-4a26-808f-3dbc0e95308a" />
+</p>
+<br> The devices can now only talk to each other if they are in the same VLAN.
+<br> Can test this anytime by going into the command prompt in one pc and trying to ping another that's in a different VLAN. (EX. PC2 to PC4)
+<p align="left">
+<img width="689" height="700" alt="Screenshot 2026-09-08 221900" src="https://github.com/user-attachments/assets/377516ed-6ab4-4663-9e1f-db154f07012f" />
+<img width="806" height="576" alt="Screenshot 2026-09-08 221907" src="https://github.com/user-attachments/assets/b7fa4914-e97f-4144-a101-1a37ccf2224d" />
+</p>
