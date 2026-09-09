@@ -18,4 +18,7 @@ Last time i used Cisco Packet Tracer was when I was studying for the Network+ I 
 <br> IPv4 Address will be 192.168.1.10 For every device after the scheme is .20 .30 .40 etc.
 <img width="690" height="697" alt="Screenshot 2026-09-08 183830" src="https://github.com/user-attachments/assets/aba99f91-77ab-4672-bdc9-82d75c18c8bd" />
 <img width="688" height="698" alt="Screenshot 2026-09-08 183934" src="https://github.com/user-attachments/assets/11f443f3-ee2e-4e45-8ed9-88725f6cff07" />
+<br> Click on a PC then Desktop > Command Prompt 
+<br> I needed to check if there was connectivity so I pinged another device.
+<img width="687" height="680" alt="Screenshot 2026-09-08 184154" src="https://github.com/user-attachments/assets/32a87dc6-07de-4d45-8859-56a9070d6ad7" />
 
