@@ -24,5 +24,7 @@ Last time i used Cisco Packet Tracer was when I was studying for the Network+ I 
 <br> I went into the the switch interface to configure the VLANs
 <br> VLAN1 is the default so it's name can't be changed.
 <br> I made 3 VLANs and named them 2 3 and 4
+<p align="left">
 <img width="681" height="658" alt="Screenshot 2026-09-08 214527" src="https://github.com/user-attachments/assets/2c824ecc-9de8-4d2f-820f-478eceee355b" />
+</p>
 
