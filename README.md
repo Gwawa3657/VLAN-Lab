@@ -16,7 +16,6 @@ Last time i used Cisco Packet Tracer was when I was studying for the Network+ I 
 <br> Go into each PC or device then Desktop > IP Configuration
 <br> Change the Default Gateway to 192.168.1.1
 <br> IPv4 Address will be 192.168.1.10 For every device after the scheme is .20 .30 .40 etc.
-<img width="688" height="698" alt="Screenshot 2026-09-08 183934" src="https://github.com/user-attachments/assets/321ededf-365b-4a01-bf3d-373f9299fa81" />
-<img width="690" height="697" alt="Screenshot 2026-09-08 183830" src="https://github.com/user-attachments/assets/afc6eff8-48de-4c25-bd35-303b4d22197f" />
-
+<img width="690" height="697" alt="Screenshot 2026-09-08 183830" src="https://github.com/user-attachments/assets/aba99f91-77ab-4672-bdc9-82d75c18c8bd" />
+<img width="688" height="698" alt="Screenshot 2026-09-08 183934" src="https://github.com/user-attachments/assets/11f443f3-ee2e-4e45-8ed9-88725f6cff07" />
 
